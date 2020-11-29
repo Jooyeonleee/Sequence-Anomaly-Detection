@@ -1,1 +1,1 @@
-# Sequence-Anomaly-Detection using LSTM Autoencoder
+# Sequence-Anomaly-Detection
